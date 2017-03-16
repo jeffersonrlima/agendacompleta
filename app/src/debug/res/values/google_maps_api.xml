@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=FE:36:3F:76:EE:72:C0:38:A5:8A:A6:F5:C6:54:C4:81:16:6C:94:96%3Bagenda.cursoandroid.com.agenda
+
+    You can also add your credentials to an existing key, using this line:
+    FE:36:3F:76:EE:72:C0:38:A5:8A:A6:F5:C6:54:C4:81:16:6C:94:96;agenda.cursoandroid.com.agenda
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDPbhTm2jJ-0O8tE5UnW7cfPGkrp0QfHXE</string>
+</resources>
